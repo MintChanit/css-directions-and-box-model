@@ -1,1 +1,26 @@
-/* Start coding here */
+*{
+    box-sizing: border-box;
+}
+.grey-box{
+    border: 16px solid lightgrey;
+    height: 100vh;
+
+}
+
+.black-box{
+    border: 16px solid black;
+    height: 100%;
+}
+
+.red-box{
+    border: 24px solid crimson;
+    height: 100%;
+    background-color:#fff59d;
+}
+
+
+h1 {
+    font-size: 72px;
+    padding: 30px;
+    text-align: center;
+}
