@@ -1,1 +1,30 @@
 /* Start coding here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #92a9bd;
+  padding: 30px;
+  color: #183b56;
+}
+
+.article-card {
+  border: 1px solid #183b56;
+  color: #183b56;
+  width: 600px;
+  padding: 20px;
+  margin: 40px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #e4e9ed;
+}
+
+.placeholder {
+  width: 500px;
+  height: 200px;
+  background-color: lightgray;
+}
