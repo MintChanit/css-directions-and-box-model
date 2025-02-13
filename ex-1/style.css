@@ -1,1 +1,29 @@
-/* Start coding here */
+.header-box{
+    width: 100vw;
+    height: 80px;
+    background-color: cadetblue;
+    
+}
+h1 {
+    padding: 20px;
+}
+h2{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.content-box{
+    width: 550px;
+    height: 320px;
+    background-color: grey;
+    border: solid 2px;
+    border-color: black;
+    margin: 40px;
+    padding: 10px;
+}
+.topic{
+    margin-top: 0px;
+}
+
+.picture{
+    margin-left: 30px;
+}
